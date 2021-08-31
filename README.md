@@ -8,4 +8,3 @@ Resources Used:
 - Room database
 - Glide
 - Calendar View
-- 
